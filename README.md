@@ -32,7 +32,9 @@ This notebook runs as-is without any external dataset. Most examples generate sy
 Optional real-world datasets for extension:
 
 - `kaustubhdikshit/neu-surface-defect-database`
+  https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
 - `toqaalaaawad/metal-surfaces-defects`
+  https://www.kaggle.com/datasets/toqaalaaawad/metal-surfaces-defects
 
 The first one is already referenced inside the notebook for the steel-surface mini project.
 
@@ -51,5 +53,5 @@ The notebook is also prepared for Kaggle kernel publishing via `kernel-metadata.
 
 ## Links
 
-- GitHub: pending publish
-- Kaggle: pending publish
+- GitHub: https://github.com/PatikaTosyali/patika-dev-day1-kaggle-notebook
+- Kaggle: https://www.kaggle.com/code/oaslananka/patika-dev-day1-kaggle-notebook

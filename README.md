@@ -5,6 +5,7 @@ Day 1 notebook for introductory industrial computer vision workflows with OpenCV
 ## Contents
 
 - `Day1_Kaggle_Notebook.ipynb`: main notebook
+- `GitHub_Kaggle_Baslangic_Rehberi.ipynb`: beginner-friendly GitHub + Kaggle tutorial notebook
 - `kernel-metadata.json`: Kaggle kernel metadata
 - `requirements.txt`: local Python dependencies
 

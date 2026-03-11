@@ -51,6 +51,10 @@ jupyter lab
 
 The notebook is also prepared for Kaggle kernel publishing via `kernel-metadata.json`.
 
+Default attached Kaggle dataset:
+
+- `kaustubhdikshit/neu-surface-defect-database`
+
 ## Links
 
 - GitHub: https://github.com/PatikaTosyali/patika-dev-day1-kaggle-notebook

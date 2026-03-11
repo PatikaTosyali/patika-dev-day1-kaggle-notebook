@@ -1,0 +1,15 @@
+{
+  "id": "oaslananka/patika-dev-day1-kaggle-notebook",
+  "title": "Patika Dev Day 1 Kaggle Notebook",
+  "code_file": "Day1_Kaggle_Notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

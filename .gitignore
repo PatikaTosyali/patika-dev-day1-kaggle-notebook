@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+tmp_kaggle_meta/
